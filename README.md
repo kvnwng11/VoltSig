@@ -4,7 +4,7 @@ In 2022, I worked with [Dr. Qi Feng](https://sites.google.com/site/qifengmath/ho
 
 ---
 
-## Motivation
+## Background
 
 We were interested in studying stochastic Volterra integrals. Let $T > 0$ be a fixed terminal time, $B^0_t \coloneqq t$, and $B = (B^1, \cdots, B^d)$ be a $d$-dimensional Brownian motion. 
 
