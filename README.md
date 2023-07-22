@@ -41,7 +41,7 @@ where the followng definitions hold:
 * $\mathcal{S}_ n$ is a set of mappings for the indices $\mathcal{S}_ n \coloneqq \lbrace \vec{\kappa} = (\kappa_1, \cdots, \kappa_n) \mid \kappa_\ell \in \lbrace 0, 1, \cdots, \ell-1 \rbrace, \ell = 1, \cdots, n \rbrace$
 * $\mathcal{K}(\vec{i}, \vec{\kappa}; \vec{t})$ is defined as $\mathcal{K}(\vec{i}, \vec{\kappa}; \vec{t}) \coloneqq \prod\limits^n_ {\ell = 1}K_ {i_\ell}(t_ {\kappa_\ell}, t_\ell)$. 
 
-The standard signature is a special case when $K_ {i_\ell} = 1$ for all $i_\ell$. In our studies, we were interested in a more general setting with $B$ replaced with a discrete rough path $X$. We wanted to investigate how the Volterra signature summarizes features of the path.
+The standard signature is a special case when $K_ {i_\ell} = 1$ for all $i_\ell$. In our studies, we were interested in a more general setting with $B$ replaced with a discrete rough path $X$. 
 
 ---
 ## Example code
@@ -66,7 +66,7 @@ plt.show()
 
 
     
-![png](example_files/example_6_0.png)
+![png](img/example_6_0.png)
     
 
 
@@ -107,7 +107,7 @@ plt.show()
 
 
     
-![png](example_files/example_10_0.png)
+![png](img/example_10_0.png)
     
 
 
@@ -146,7 +146,7 @@ plt.show()
 
 
     
-![png](example_files/example_13_0.png)
+![png](img/example_13_0.png)
     
 
 
@@ -171,7 +171,7 @@ plt.show()
 
 
     
-![png](example_files/example_16_0.png)
+![png](img/example_16_0.png)
     
 
 
@@ -250,6 +250,6 @@ plt.show()
 
 
     
-![png](example_files/example_20_0.png)
+![png](img/example_20_0.png)
     
 
