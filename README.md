@@ -2,11 +2,9 @@
 
 In 2022, I worked with [Dr. Qi Feng](https://sites.google.com/site/qifengmath/home) at the University of Michigan to study Volterra signatures. This repository contains our code to solve Volterra signatures.
 
----
-
 ## Background
 
-We were interested in studying stochastic Volterra integrals. Let $T > 0$ be a fixed terminal time, $B^0_t \coloneqq t$, and $B = (B^1, \cdots, B^d)$ be a $d$-dimensional Brownian motion. 
+Let $T > 0$ be a fixed terminal time, $B^0_t \coloneqq t$, and $B = (B^1, \cdots, B^d)$ be a $d$-dimensional Brownian motion. 
 
 A general Volterra type stochastic differential equation (SDE) under Stratonovich integration has the following form, for a $d_1$-dimensional state process $X = (X^1, \cdots, X^{d_1})$ with the initial point given by $x = (x_1, \cdots, x_{d_1}) \in \mathbb{R}^{d_1}$:
 
